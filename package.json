@@ -1,0 +1,18 @@
+{
+  "name": "vis-seed",
+  "version": "0.0.1",
+  "description": "seed app for d3 visualizations in reveal.js presentations",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~3",
+    "logfmt": "~1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
